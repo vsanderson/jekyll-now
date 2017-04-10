@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crossing the Delaware..."
+title: 'Crossing the Delaware...'
 published: true
 ---
 
