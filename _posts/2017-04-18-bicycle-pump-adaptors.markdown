@@ -1,9 +1,9 @@
-   ---
-   layout: post
-   title: 'Bicycle Pump Adapters'
-   published: true
-   categories: ["bikes" "tips"]
-   ---
+---
+layout: post
+title: 'Bicycle Pump Adapters'
+published: true
+categories: ["bikes" "tips"]
+---
 
 ## So-called quick release adapters are terrible
 
