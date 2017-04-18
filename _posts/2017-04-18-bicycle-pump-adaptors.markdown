@@ -1,7 +1,7 @@
    ---
    layout: post
-   title: Bicycle Pump Adapters
-   published: false
+   title: 'Bicycle Pump Adapters'
+   published: true
    categories: ["bikes" "tips"]
    ---
 
