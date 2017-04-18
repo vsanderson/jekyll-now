@@ -6,7 +6,7 @@ published: true
 
 ## So-called quick release adapters are terrible
 
-Do yourself a favor and stay away from bike pumps that use quick-release adapters. The popular Joe Blow pumps use these. These adapters are supposed to make connecting to the tire's Schrader or Presta valve quicker and easier. In fact, they do the opposite. They leak air, often need extensive fiddling before achieving a proper seal, and the seals wear out very quickly, in which case the manufacturer wants you to buy their adaptor-kit.
+Do yourself a favor and stay away from bike pumps that use quick-release adapters. The popular Joe Blow pumps use these. These adapters are supposed to make connecting to the tire's Schrader or Presta valve quicker and easier. In fact, they do the opposite. They leak air, often need extensive fiddling before achieving a proper seal, and the seals wear out very quickly, in which case the manufacturer wants you to buy their adapter-kit.
 
 Just avoid all this hassle. Get a pump with a screw adapter. 
 ![Screw Adaptor]({{ site.baseurl }}/images/abs-flip-thread.jpg)
