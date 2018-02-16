@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-Full disclosure: I'm a snowboarder. I love watching a good skier, though -- in certain events. Downhill, slalom, jumping -- these are skiing's fortes.
+Full disclosure: I'm a snowboarder. I love watching a good skier, though -- in certain events. Downhill, slalom, jumping -- these are skiing's fortes. I've always looked at it like this: skiing is skiing, snowboarding is riding.
 
 However, there are things that shouldn't be done on skis. Tricks. Halfpipe. These things just look ridiculous on skis. There is just too much equipment.
 And wipeouts are yardsales
