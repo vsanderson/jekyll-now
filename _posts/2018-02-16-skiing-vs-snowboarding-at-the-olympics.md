@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 
 Full disclosure: I'm a snowboarder. I love watching a good skier, though -- skiing is actually more difficult than snowboarding, and there are things you just can't do on a snowboard like you can on skis. 
